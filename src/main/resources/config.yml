@@ -1,0 +1,7 @@
+item:
+  material: glass
+  name: &d&l查询方块
+  lore:
+  - ''
+  - '用于查询方块历史'
+  - '使用完毕后直接丢弃即可'

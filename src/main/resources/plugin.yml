@@ -1,0 +1,12 @@
+name: ${project.name}
+main: org.totemcraft.colif.COLIFPlugin
+version: ${project.version}
+depend: [ProtocolLib, CoreProtect]
+author: i@thetd.me
+commands:
+  colif:
+    usage: /<command>
+    permission: colif.access
+permissions:
+  colif.access:
+    default: true
